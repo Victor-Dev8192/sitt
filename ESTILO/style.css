@@ -177,7 +177,7 @@ aside>h3{
     color: rgb(255, 255, 255);
     padding: 10px;
     margin: -20px -20px 0px -20px;
-    border-start-start-radius: 10px;
+    border-radius: 10px 10px 0px 0px;
 }
 
 aside>ul{
